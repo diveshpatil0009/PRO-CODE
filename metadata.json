@@ -1,0 +1,6 @@
+{
+  "name": "Procode - Brand Governance Platform",
+  "description": "AI-powered Brand Governance Platform preventing brand inconsistencies before publication with rule validation, tone analysis, living facts, and human approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

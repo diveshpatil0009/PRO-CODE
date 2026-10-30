@@ -38,7 +38,9 @@ To run this prototype locally, follow these steps:
 
 1. Clone the repository
 
-git clone https://github.com/diveshpatil0009/PRO-CODE-FINAL.git
+git clone https://github.com/diveshpatil0009/PRO-CODE.git
+or 
+For Direct access: https://ai.studio/apps/15560e7e-ff6d-4a32-9d5e-6d0477e92852
 cd PRO-CODE-FINAL
 
 
